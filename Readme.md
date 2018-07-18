@@ -1,4 +1,6 @@
-# Unit 12 | Assignment - Web Visualization Dashboard (Lattitude)
+[![built with Python3](https://img.shields.io/badge/built%20with-Python3-red.svg)](https://www.python.org/)
+[![built with Matplotlib](https://img.shields.io/badge/built%20with-matplotlib-blue.svg)](https://www.python.org/)
+[![built with HTML5](https://img.shields.io/badge/built%20using-HTML5-yellow.svg)](https://www.python.org/)
 
 ## Background
 
